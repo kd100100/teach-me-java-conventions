@@ -8,8 +8,6 @@
 - ensure you fix the issue due to which tests are not running, secondly take care of basic java naming conventions, third look for anything inconsistent or typo and anything else you think can be improved. 
 
 ### Problem Solved
-
-- sas
-- 
-    - ![test running](testsrunning.png)
+-
+    - ![test running](testrunning.png)
 

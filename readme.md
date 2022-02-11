@@ -8,4 +8,4 @@
 - ensure you fix the issue due to which tests are not running, secondly take care of basic java naming conventions, third look for anything inconsistent or typo and anything else you think can be improved. 
 
 ### Problem Solved
-    - ![test not running](testsnotrunning.png)
+    - ![test running](testsrunning.png)
